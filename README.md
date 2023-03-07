@@ -1,6 +1,8 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Rust Sagemaker MLOps Experiments
+
+This repo will create solutions for MLOPs with Rust.
+
 
 ## References
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+* [Sagemaker Step Functions](https://docs.aws.amazon.com/step-functions/latest/dg/connect-sagemaker.html)
